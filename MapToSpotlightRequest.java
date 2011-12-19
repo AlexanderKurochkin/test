@@ -7,7 +7,7 @@ import com.where.commons.feed.citysearch.ads.CitysearchKeyword;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import javax.servlet.http.HttpServletRequest;
+///import javax.servlet.http.HttpServletRequest;
 import java.lang.reflect.Field;
 import java.lang.reflect.Modifier;
 import java.util.List;
